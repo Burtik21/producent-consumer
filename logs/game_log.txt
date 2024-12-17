@@ -1,0 +1,6 @@
+=== Game Log ===
+Initialized 4 players.
+Error: not enough values to unpack (expected 2, got 1)
+Error: not enough values to unpack (expected 2, got 1)
+Added request: DealCardsRequest
+Processing request: DealCardsRequest
